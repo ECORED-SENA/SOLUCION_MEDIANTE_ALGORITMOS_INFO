@@ -20,9 +20,9 @@ section
                 p.banner-principal__datos__item__texto 21710101
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 96 Horas
+                p.banner-principal__datos__item__texto 96
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración: 
                 p.banner-principal__datos__item__texto 8 Semanas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
@@ -55,7 +55,7 @@ section
     p El software ha demostrado recientemente la importancia que tiene en el sector productivo y en la vida de las personas de todo el mundo, además de la creciente participación global en el entorno digital, esto repercute en el desarrollo de actividades en todos los sectores. 
     p  El número de profesionales de tecnología que demandan las empresas colombianas es mucho mayor que el de profesionales disponibles en el país, según datos del Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC). El déficit de profesionales en esa área será de casi 70 mil cerrando el 2019. Dadas las proyecciones, después de 2019 el problema de la escasez de talento humano formado en áreas de TI, seguirá creciendo y no puede resolverse fácilmente, por lo tanto, el Gobierno de Colombia debe adoptar medidas para superar este déficit. Ante la necesidad existente y futura de formación de personal en tecnologías relacionadas con el sector de las TIC, se deben ofertar programas de formación para el fortalecimiento de capacidades en desarrollos a la medida, programación, algoritmos, bases de datos y redes. 
     p  Estos campos requeridos de formación están siendo demandados por el sector productivo y generan oportunidades potenciales de desempeño para las personas, derivando en los factores que se tienen en cuenta para la generación de diseños curriculares relacionados con las tecnologías del sector TIC y la red de conocimiento en informática, diseño y desarrollo de software, como apoyo al crecimiento de este. 
-    p  De acuerdo con cifras del observatorio laboral y ocupacional colombiano en el cuarto trimestre 2020 se evidenció en la ocupación analistas de sistemas informáticos, la relación entre buscadores de empleo según situación ocupacional de: 88.1% de aspirantes, 7.2% de cesantes y 4.7%. ocupado.
+    p  De acuerdo con cifras del observatorio laboral y ocupacional colombiano en el cuarto trimestre 2020 se evidenció en la ocupación analistas de sistemas informáticos, la relación entre buscadores de empleo según situación ocupacional de: 88.1 % de aspirantes, 7.2 % de cesantes y 4.7 %. ocupado.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
@@ -97,7 +97,7 @@ section
         i.fas.fa-circle
         | Solución de problemas.  
 
-    p Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    p Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
     ul.lista-ul.px-4
       li 
         i.fas.fa-circle
